@@ -42,4 +42,13 @@ Required Tasks:
 
 6.    Repeat the above step with another initialization.
 
-7.    Submit a short report summarizing the results, including the plots for the objective function values under different settings described above.
+7.    Submit a short report summarizing the results, including the plots for the objective function values under different
+      settings described above.
+
+***************************************************************************************************************************
+If you want to change the path of the imput file, just fill the file path in following line of code.
+	Strategy1 - Line 14
+	Strategy2 - Line 34
+dataset = scipy.io.loadmat("C:\\Users\\kunal\\Desktop\\Statistical Machine Learning\\
+		            Project 2\\AllSamples.mat") 
+***************************************************************************************************************************
